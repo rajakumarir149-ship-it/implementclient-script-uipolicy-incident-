@@ -1,0 +1,1 @@
+https://dev449493.service-now.com/now/nav/ui/classic/params/target/sys_script_client_list.do%3Fsysparm_userpref_module%3D09b4f089c0a800050098a7faefe5d732%26sysparm_query%3Dsys_class_name%253Dsys_script_client%255EEQ%26sysparm_clear_stack%3Dtrue
